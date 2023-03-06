@@ -1,0 +1,16 @@
+{
+  "name": "doug-bot-discord",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "dougdev",
+  "scripts": {
+    "dev": "node --watch src/index.js"
+  },
+  "type": "module",
+  "repository": "https://github.com/dougldev/doug-bot-discord.git",
+  "license": "MIT",
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.21"
+  }
+}
